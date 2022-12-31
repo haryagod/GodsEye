@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sB2QMwEUx9UsjbXb1wQMmsEsfzMGPPmMBQdRqPUX07w=",
+  "Source": "student-service",
+  "BasePath": "_content/student-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
